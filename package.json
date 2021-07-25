@@ -1,0 +1,22 @@
+{
+  "name": "dashandld",
+  "version": "1.0.0",
+  "description": "Both bots for the WayvGD server.",
+  "main": "./start.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayv",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/got": "^9.6.12",
+    "@types/node": "^16.4.2",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "eris": "^0.15.1",
+    "got": "^12.0.0-beta.1",
+    "mongoose": "^5.13.3",
+    "tslog": "^3.2.0"
+  }
+}

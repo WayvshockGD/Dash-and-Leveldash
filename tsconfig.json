@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ESNext",
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "allowJs": true,
+        "outDir": "./build",
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
